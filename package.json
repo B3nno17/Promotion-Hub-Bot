@@ -1,0 +1,24 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "  "
+  },
+  "author": "Benno",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord-anti-spam": "^2.3.5",
+    "discord.js": "^11.5.1",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "enmap": "^5.2.4",
+    "mongoose": "^5.9.2",
+    "opusscript": "0.0.7",
+    "relevant-google": "^1.0.0",
+    "request": "^2.88.2",
+    "ytdl": "^1.2.0",
+    "ytdl-core": "^1.0.9"
+  }
+}
